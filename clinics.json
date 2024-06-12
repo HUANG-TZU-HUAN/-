@@ -1,0 +1,21 @@
+{
+    "title": "宜蘭地區診所地圖",
+    "mapUrl": "https://www.google.com/maps/d/u/0/embed?mid=1983Hr-e6w_UN9SgjvIyqu7YOXJx04MA&ehbc=2E312F",
+    "clinics": [
+        {
+            "name": "ABC Clinic",
+            "department": "General Medicine",
+            "address": "123 Main St"
+        },
+        {
+            "name": "XYZ Clinic",
+            "department": "ENT",
+            "address": "456 Oak St"
+        },
+        {
+            "name": "HealthPlus",
+            "department": "Pediatrics",
+            "address": "789 Pine St"
+        }
+    ]
+}
